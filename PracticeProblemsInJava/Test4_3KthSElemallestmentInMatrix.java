@@ -1,0 +1,9 @@
+import java.util.*;
+import java.io.*;
+public class Test4_3KthSElemallestmentInMatrix {
+	public static void main(String[]args) throws IOException
+	{
+		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
+		
+	}
+}
